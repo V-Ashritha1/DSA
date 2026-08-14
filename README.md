@@ -20,7 +20,7 @@ I will be learning, solving problems, and updating this repository regularly as 
 
 ## 💻 Coding Profiles
 
-- 🧩 [LeetCode]((https://leetcode.com/u/Ashritha1255/))
+- 🧩 [LeetCode](https://leetcode.com/u/Ashritha1255/)
 - 🏆 [HackerRank](https://www.hackerrank.com/profile/ashritha1255)
 
 ## 📈 Continuous Improvement
