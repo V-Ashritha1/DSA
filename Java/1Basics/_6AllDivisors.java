@@ -5,7 +5,8 @@ public class _6AllDivisors{
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         
-        /*ArrayList<Integer> ans = new ArrayList<>();
+        /*this is to store the values in a list*/
+        ArrayList<Integer> ans = new ArrayList<>();
         for(int i = 1; i<=n; i++){
             if(n%i==0){
                 ans.add(i);            
@@ -16,14 +17,15 @@ public class _6AllDivisors{
         for(int i = 0; i<ans.size(); i++){
             res[i] = ans.get(i);
             System.out.println(res[i]);
-        }*/
+        }
 
+        /*this can be done to store the values normally
         int ans = 0;
         for(int i = 1; i<=n; i++){
             if(n%i==0){
                 ans=i;
                 System.out.println(ans);            
             }
-        }
+        }*/
     }
 }
