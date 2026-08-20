@@ -23,6 +23,12 @@ I will be learning, solving problems, and updating this repository regularly as 
 - 🧩 [LeetCode](https://leetcode.com/u/Ashritha1255/)
 - 🏆 [HackerRank](https://www.hackerrank.com/profile/ashritha1255)
 
+
+## 🎯 Languages Used
+- Java
+- Python
+
+
 ## 📈 Continuous Improvement
 
 I also revisit problems I've solved before to understand better approaches and improve my solutions over time.
